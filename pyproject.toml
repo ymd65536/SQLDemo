@@ -1,7 +1,7 @@
 [project]
 name = "SQLDemo"
 version = "0.1.0"
-description = "Template repository for Python projects with uv"
+description = "SQL and data format conversion playground"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
