@@ -11,3 +11,7 @@ include
 
 # macOS
 .DS_Store
+
+# sqlite database
+demo.db
+users.csv
